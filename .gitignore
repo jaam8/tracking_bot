@@ -1,0 +1,6 @@
+course
+.idea/
+.env
+*.pyc
+__pycache__/
+venv/
